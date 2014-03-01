@@ -1,0 +1,11 @@
+body {
+	margin: 0px;
+	padding: 0px;
+        font-size: 2em;
+	background-image: url("imeges/background.png");
+}
+
+#animal {
+    font-size: 0.7em;
+    
+}
